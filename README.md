@@ -1,6 +1,6 @@
 # Using Terraform to create Spotify Playlists of your Favorite Artists
 
-Visit the original creator [here](https://github.com/conradludgate)
+Visit the original developer [here](https://github.com/conradludgate)
 
 Things you need:
 * Spotify Account / [Developer](https://developer.spotify.com/) 
